@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prashilaryal" alt="prashilaryal" /></a> </p>
 
-- 🔭 I’m currently working on **PHP (Laravel framework)**
+- 🔭 I’m currently working on **MERN Stack**
 
 - 📫 How to reach me **prashilaryal13@gmail.com**
 
